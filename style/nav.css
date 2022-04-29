@@ -11,7 +11,7 @@ header .logo {
     color: var(--vermelho);
     font-family: 'Arial Black', Times;
     font-size: 50px;
-    margin-left: 10px;
+
 }
 
 header nav a{
