@@ -1,6 +1,6 @@
 .filme-principal{
     font-size: 15px;
-    background:linear-gradient(rgba(0,0,0,.3),rgba(0,0,0,.2)),url('/img/the-Witcher.png');
+    background:linear-gradient(rgba(0,0,0,.3),rgba(0,0,0,.2)),url('/img/theWitcher.png');
 
     height: 600px;
     background-size: cover;
